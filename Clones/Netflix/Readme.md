@@ -1,4 +1,4 @@
-# Netflix Clone
+# Netflix UI Clone
 
 ![Screenshot 2025-03-20 221431](https://github.com/user-attachments/assets/a9d6cd00-4c73-4333-8f08-028e934904ac)
 
