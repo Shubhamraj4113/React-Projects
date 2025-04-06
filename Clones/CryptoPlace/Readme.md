@@ -1,4 +1,4 @@
-# Crypto Place
+# Crypto Place UI Clone
 
 ![Screenshot 2025-03-29 220448](https://github.com/user-attachments/assets/40af028e-07e5-45d4-a99b-eaad96a64476)
 
