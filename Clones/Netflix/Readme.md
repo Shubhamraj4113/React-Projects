@@ -1,5 +1,5 @@
 # Netflix UI Clone
 
-![Screenshot 2025-03-20 221431](https://github.com/user-attachments/assets/a9d6cd00-4c73-4333-8f08-028e934904ac)
+![New Tab - Google Chrome 23-05-2025 08_54_38 PM](https://github.com/user-attachments/assets/7130ca61-1160-4d15-92fa-2d0a798c0741)
 
 Here is a link to App (https://phenomenal-starburst-7a6d98.netlify.app/)
