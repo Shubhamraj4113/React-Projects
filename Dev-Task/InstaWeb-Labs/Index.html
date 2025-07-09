@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Builder</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div class="builder-container">
+      <div class="sidebar">
+        <h3>Basic Elements</h3>
+        <div class="draggable-element" draggable="true" data-type="text">
+          <i class="icon-text"></i>
+          Text Block
+        </div>
+        <div class="draggable-element" draggable="true" data-type="image">
+          <i class="icon-image"></i>
+          Image
+        </div>
+        <div class="draggable-element" draggable="true" data-type="button">
+          <i class="icon-button"></i>
+          Button
+        </div>
+      </div>
+
+      <div class="canvas-wrapper">
+        <div id="canvas" class="canvas"></div>
+      </div>
+
+      <div class="properties-panel">
+        <h3>Properties</h3>
+        <div id="no-element-selected">Select an element to edit its properties.</div>
+        <div id="properties-form" style="display: none;">
+          <label for="content-input">Content:</label>
+          <textarea id="content-input"></textarea>
+
+          <label for="font-size-input">Font Size:</label>
+          <input type="number" id="font-size-input" step="1" min="8">
+
+          <label for="color-input">Color:</label>
+          <input type="color" id="color-input">
+
+          <label for="background-color-input">Background Color:</label>
+          <input type="color" id="background-color-input">
+
+          <label for="image-url-input">Image URL:</label>
+          <input type="text" id="image-url-input">
+
+          <button id="delete-element-btn">Delete Element</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+    </body>
+</html>
